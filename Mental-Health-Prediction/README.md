@@ -1,1 +1,1 @@
-# Mental-Health-Prediction
+# Mental-Health-Classification
