@@ -1,4 +1,5 @@
-# Mental-Health-Prediction
+# Mental-Health-Classification
+
 ## Natural Language Processing (NLP) techniques can be used to make inferences about people's mental states from what they write on social media platforms like Facebook, Twitter, and other non-clinical texts. These inferences can then be used to create online pathways to direct people to health information and assistance and also to generate personalized interventions. 
 
 The computational methods used to collect, process, and utilize online writing data, as well as the evaluations of these techniques, are still dispersed in the literature. However, a scoping review has been conducted to highlight areas of research where NLP has been applied in the mental health literature and to help develop a common language that draws together the fields of mental health, human-computer interaction, and NLP. The review provides a taxonomy of data sources and techniques that have been used for mental health support and intervention. Specifically, it reviews how social media and other data sources have been used to detect emotions and identify people who may be in need of psychological assistance; the computational techniques used in labeling and diagnosis; and finally, it discusses ways to generate and personalize mental health interventions.
